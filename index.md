@@ -10,7 +10,7 @@
 ### 【基础 - 入门篇】 
 
 
-* [安装Python环境](/Article/python0/安装Python环境.md)
+* [安装Python环境](https://github.com/ijiwu/python-course/blob/master/rudiments/安装Python环境.md)
 * [Python代码规范](/Article/codeSpecification/codeSpecification_Preface.md)
   - [简明概述](/Article/codeSpecification/codeSpecification_first.md)
   - [注释](/Article/codeSpecification/codeSpecification_second.md)
