@@ -11,15 +11,8 @@
 
 
 * [安装Python环境](https://github.com/ijiwu/python-course/blob/master/rudiments/安装Python环境.md)
-* [Python代码规范](/Article/codeSpecification/codeSpecification_Preface.md)
-  - [简明概述](/Article/codeSpecification/codeSpecification_first.md)
-  - [注释](/Article/codeSpecification/codeSpecification_second.md)
-  - [命名规范](/Article/codeSpecification/codeSpecification_third.md)
-* [第一个Python程序](/Article/python1/Preface.md)
-  - [Python 简介](/Article/python1/Introduction.md)
-  - [Python 的安装](/Article/python1/Installation.md)
-  - [第一个 Python 程序](/Article/python1/The_first_procedure.md)
-  - [集成开发环境（IDE）: PyCharm](/Article/python1/IDE.md)
+  - [集成开发环境（IDE）: PyCharm](https://github.com/ijiwu/python-course/blob/master/rudiments/集成开发环境.md)
+* [Python代码规范](https://github.com/tedyli/PEP8-Style-Guide-for-Python-Code)
 * [基本数据类型和变量](/Article/python2/Preface.md)
   - [Python 语法的简要说明](/Article/python2/Grammar.md)
   - [Python 的基本数据类型](/Article/python2/Type_of_data.md)
