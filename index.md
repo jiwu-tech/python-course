@@ -18,6 +18,8 @@
   - [Python代码规范](https://github.com/tedyli/PEP8-Style-Guide-for-Python-Code)
   - [Python 语言参考](https://docs.python.org/zh-cn/3/)
   - [Python API参考手册](https://docs.python.org/zh-cn/3.7/c-api/index.html)
+* [推荐书籍]
+  - [疯狂Python讲义]
 
 
 ### 【知识点补漏】
