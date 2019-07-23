@@ -37,6 +37,7 @@
   - [Django 文档](https://docs.djangoproject.com/zh-hans/2.1/)
   - [快速安装](https://docs.djangoproject.com/zh-hans/2.1/intro/install/)
   - [PyCharm 创建 Django 项目](https://www.cnblogs.com/liqu/p/9308966.html)
+  - [Django 最佳实践](https://github.com/yangyubo/zh-django-best-practices)
 * [Flask]
 * [Tornado]
   
