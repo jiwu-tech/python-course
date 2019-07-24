@@ -52,6 +52,9 @@
   
 ## 三、爬虫开发
 ### Scrapy
+* [文档]
+  - [官方文档](https://docs.scrapy.org/en/latest/)
+
 ### PySpider
 
 持续更新....
