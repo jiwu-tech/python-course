@@ -22,6 +22,11 @@
   - 《疯狂Python讲义》
 
 
+### 【数据库 - ORM篇】
+
+* [peewee，轻量级ORM框架](http://docs.peewee-orm.com/en/latest/)
+  
+
 ### 【知识点补漏】
 * 
 
