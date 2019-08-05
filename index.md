@@ -51,6 +51,10 @@
   - 3、modelForm自动验证
   
 ## 三、爬虫开发
+### PyQuery
+* [文档]
+  - [官方文档](https://pythonhosted.org/pyquery/)
+  - [一分钟学会爬虫](https://github.com/ijiwu/python-course/blob/master/spider/pyquery.md)
 ### Scrapy
 * [文档]
   - [官方文档](https://docs.scrapy.org/en/latest/)
